@@ -4,19 +4,12 @@
 
 - [**Introductory Resources**](README.md#introductory-resources)
   - [About](README.md#about)
-  - [Contributions](README.md#contributions)
-- [**Advanced Resources**](ADVANCED.md#advanced-resources)
-  - [APIs](ADVANCED.md#apis)
-  - [Bootstrap](ADVANCED.md#bootstrap)
-  - [Design](ADVANCED.md#design)
-  - [JavaScript](ADVANCED.md#javascript)
-  - [MongoDB](ADVANCED.md#mongodb)
-  - [MySQL](ADVANCED.md#mysql)
-  - [NPM Packages](ADVANCED.md#npm-packages)
-  - [React](ADVANCED.md#react)
+  - [Design](README.md#design)
+  - [Backend Development](README.md#backend-development)
+  - [Frontend Development](README.md#frontend-web-development)
+  - [APIs](README.md#apis)
 - [**Post Graduation**](POST-GRADUATION.md#post-graduation-resources)
   - [Interview Prep](POST-GRADUATION.md#interview-prep)
-
 
 
 ## **Interview Prep**
