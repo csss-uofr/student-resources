@@ -154,6 +154,25 @@ _HEY! Changing your history may cause undesired side effects. You may lose data.
 - [Article on Writing Good Commit Messages](https://chris.beams.io/posts/git-commit/), which pretty much everyone could stand to improve ;)
 - [Github Student Developer Pack](https://education.github.com/pack), seriously, if you're a student you should have this
 - [Intro to Git Rebase](https://dev.to/maxwell_dev/the-git-rebase-introduction-i-wish-id-had), a great explanation of a powerful command
+ - [Git Tutorials](https://www.atlassian.com/git/tutorials/comparing-workflows)
+ - [How to use Git and Github | Udacity](https://in.udacity.com/course/how-to-use-git-and-github--ud775-india)
+ - [Version Control with Git | Udacity](https://in.udacity.com/course/version-control-with-git--ud123)
+ - [Introduction to Git and Github | YouTube](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+ - [Pro Git Book](https://git-scm.com/book/en/v2)
+ - [LearnGitBranching](https://learngitbranching.js.org/)
+ - [GIT PURR! Git Commands Explained with Cats!](https://girliemac.com/blog/2017/12/26/git-purr/)
+ - [git - the simple guide](http://rogerdudler.github.io/git-guide/)
+ - [GIT: A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
+ - [Mastering Git by thoughtbot](https://thoughtbot.com/upcase/mastering-git)
+ - [Git - Progate](https://progate.com/languages/git) 
+ - [Intoduction to Git for DataScience](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
+ - [Git training](https://intellipaat.com/git-github-training/)
+ - [Git Interview Questions](https://www.interviewbit.com/git-interview-questions/)
+ - [Git vs Github](https://www.interviewbit.com/blog/git-vs-github/)
+ - [Git Tutorial | Scaler Topics](https://www.scaler.com/topics/git/)
+ - [An Introduction to Github](https://www.scaler.com/topics/what-is-github/)
+ - [Git Vs Github by Scaler Topics](https://www.scaler.com/topics/git-vs-github/)
+
 
 ## Tutorials
 
