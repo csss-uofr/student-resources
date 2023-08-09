@@ -25,7 +25,7 @@
 |10 | [Hackdotslash](https://hackdotslash.co.in/) | India |
 |11 | [HackHers](https://ruhackhers.org/) | New Brunswick |
 |12 | [WiHacks](https://wichacks.io/) | New York |
-|12 | [Techtogether](https://boston.techtogether.io/) | Boston 
+|13 | [Techtogether](https://boston.techtogether.io/) | Boston 
 |14 | [Hack & Soehne](https://hackundsoehne.de/)| Germany|
 |15 | [Major League Hacking](https://mlh.io/seasons/na-2019/events)| Canada, USA, Mexico |
 |16 | [START Hack](https://starthack.ch/)| Switzerland| 
