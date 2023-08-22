@@ -13,23 +13,18 @@
 
 |Id |Name | Place| 
 |--|------ |---|
-|1 | [Facebook Hackathon](https://devcommunitychallenge.devpost.com/) | Online | 
-|2 | [Hack In The North](https://www.hackinthenorth.com/)| India |  
-|3 | [HackDavis](http://hackdavis.io/)|USA | 
-|4 | [HackMIT](https://hackmit.org/)   | USA |
-|5 | [HackNC](https://hacknc.com) | USA |
-|6 | [HackNY](http://hackny.org/hackathon/) | USA | 
-|7 | [HacktheNorth](http://pennapps.com/)| Canada|
-|8 | [Hacktoberfest](https://hacktoberfest.digitalocean.com/) | Online | 
-|9 | [HackUCI](https://www.hackuci.com/) | USA |
-|10 | [Hackdotslash](https://hackdotslash.co.in/) | India |
-|11 | [HackHers](https://ruhackhers.org/) | New Brunswick |
-|12 | [WiHacks](https://wichacks.io/) | New York |
-|13 | [Techtogether](https://boston.techtogether.io/) | Boston 
-|14 | [Hack & Soehne](https://hackundsoehne.de/)| Germany|
-|15 | [Major League Hacking](https://mlh.io/seasons/na-2019/events)| Canada, USA, Mexico |
-|16 | [START Hack](https://starthack.ch/)| Switzerland| 
-|17 | [Kick Start](https://codingcompetitions.withgoogle.com/kickstart/schedule)| Online| 
+|1 | [Hack In The North](https://www.hackinthenorth.com/)| India |  
+|2 | [HackDavis](http://hackdavis.io/)|USA | 
+|3 | [HackMIT](https://hackmit.org/)   | USA |
+|4 | [HackNC](https://hacknc.com) | USA | 
+|5 | [HacktheNorth](https://hackthenorth.com/)| Canada|
+|6 | [Hacktoberfest](https://hacktoberfest.com/) | Online | 
+|7 | [HackUCI](https://www.hackuci.com/) | USA |
+|8 | [Hackdotslash](https://hackdotslash.co.in/) | India |
+|9 | [HackHers](https://ruhackhers.org/) | New Brunswick |
+|10 | [WiHacks](https://wichacks.io/) | New York |
+|11 | [Techtogether](https://boston.techtogether.io/) | Boston 
+|12 | [Major League Hacking](https://mlh.io/)| Canada, USA, Mexico |
 
 
 ## Events
@@ -38,35 +33,20 @@
 
 1. Google Developer Day - Organized by GDG
 2. Google IO extended - Organized by GDG
-3. Google Solve for India
-3. Paytm Build for India Workshops [ Delhi, Bangalore ]
 4. NVIDIA Developer Connect [ Global ]
 5. AWS meetups [ Global ]
-6. BrazilJS Conference [August, RS, Brazil](https://braziljs.org/conf/)
-7. Hackathon at the NS [Netherlands](https://werkenbijns.nl/hackathon/)
-8. [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 9. [Codementor Events](https://www.codementor.io/events)
 
 ## Startup Summits, Competitions and Bootcamps
 
 |ID| Name  | Location |
 |--|------ |----------|
-|1| [Eureka - IITB](http://www.ecell.in/eureka/)| Mumbai, INDIA |
-|2| [MIT - Entrepreneurship Bootcamp](http://bootcamp.mit.edu/entrepreneurship/)  | Online & USA |
-|3 | [Startup Grind Global Conference](http://www.startupgrind.com/conference/#/) | Redwood City, California |
-|4 | [Next Gen Summit](https://www.marketing.org/conference/show/id/BMAANC2018) | New York |
-|5 | [Y Combinator's Startup School](https://www.startupschool.org/) | Online |
-|6 | [School of AI](https://picampus-school.com/programme/school-of-ai/) | Rome, Italy |
-|7 | [European Innovation Academy](https://www.inacademy.eu/) | Portugal, China |
-|8 | [Startup Weekend - DTU](http://www.ecelldtu.in/) | Delhi, India|
-|9 | [Watson School Incubator](https://watson.is/semester-incubator-application/) | USA |
-|10 | [DevMountain](https://devmountain.com/) | UT, AZ, TX |
-|11 | [Product School](https://www.productschool.com) | Online, USA, & Toronto |
-|12 | [HackerYou](https://hackeryou.com/) | Toronto |
-|13 | [BrainStation](https://brainstation.io/) | Online, USA, & Canada |
-|14 | [Lighthouse Labs](https://lighthouselabs.ca/) | Canada |
-|15 | [RED Academy](https://redacademy.com) | Canada |
-|16 | [Flatiron School](https://flatironschool) | Online, USA |
+|1 | [Startup Grind Global Conference](http://www.startupgrind.com/conference/#/) | Redwood City, California |
+|2 | [Y Combinator's Startup School](https://www.startupschool.org/) | Online |
+|3 | [School of AI](https://picampus-school.com/programme/school-of-ai/) | Rome, Italy |
+|4 | [European Innovation Academy](https://www.inacademy.eu/) | Portugal, China |
+|5 | [Watson School Incubator](https://watson.is/semester-incubator-application/) | USA |
+|6 | [DevMountain](https://devmountain.com/) | UT, AZ, TX |
 
 
 ## Student Benefits and Packs
@@ -80,14 +60,9 @@
 4. [AWS Educate](https://aws.amazon.com/education/awseducate/)
 5. [Google Cloud](https://cloud.google.com/free/)
 6. [Intel Developer pack](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
-7. [Google Reskilling India Program | Pluralsight](https://www.pluralsight.com/partners/google/)
-8. [Free .tech domain for 1 year | dot tech Domains](https://get.tech/students)
-9. [Free Web Hosting for 1 year | Znetlive](https://www.znetlive.com/student-web-hosting/)
-10. [Bitbucket Education](https://bitbucket.org/product/education)
-11. [Namecheap free .name Domain](https://nc.me/)
-12. [Autodesk Education software for students](https://www.autodesk.com/education/free-software/featured)
-13. [Invision Free app for Education](https://www.invisionapp.com/education-signup)
-14. [Canvas File Sync](https://github.com/drew-royster/canvasFileSync)
+7. [Bitbucket Education](https://bitbucket.org/product/education)
+8. [Namecheap free .name Domain](https://nc.me/)
+9. [Autodesk Education software for students](https://www.autodesk.com/education/free-software/featured)
 
 ## **Contributions**
 
