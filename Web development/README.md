@@ -75,9 +75,7 @@ This repo was created to make a place where we could share tips, advice, resourc
 ***Node.JS***
 
   - [NodeSchool | Workshops Open Source](https://nodeschool.io/)
-  - [The Complete Node.js Developer Course | Udemy](https://www.udemy.com/the-complete-nodejs-developer-course-2/)
   - [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
-  - [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/?siteID=jU79Zysihs4-ysDvxh6JST3o9mSuR2USMQ&LSNPUBID=jU79Zysihs4) - Intermediate
   - [Node JS Tutorial for Beginners | YouTube](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
   - [Node.js Documentation](https://nodejs.org/dist/latest-v8.x/docs/api/)
   - [Node.js Design Patterns by Mario Casciaro](https://github.com/PacktPublishing/Node.js_Design_Patterns_Second_Edition_Code) - Book Advanced level
@@ -96,7 +94,6 @@ This repo was created to make a place where we could share tips, advice, resourc
   - [W3Schools](https://www.w3schools.com/php/)
   - [Tutorial Point](https://www.tutorialspoint.com/php/)
   - [PHP with Database tutorial ](https://www.codeproject.com/Articles/759094/Step-by-Step-PHP-Tutorials-for-Beginners-Creating)
-  - [Guide for PHP and SQL connection with HTML form.](https://github.com/shauryauppal/PHP-Database-connection)
   - [PHP: The Right Way](https://phptherightway.com)
   - [PHP: The Wrong Way](http://www.phpthewrongway.com/)
   - [BitDegree-Php](https://bitdegree.org/learn/learn-php)
@@ -105,13 +102,11 @@ This repo was created to make a place where we could share tips, advice, resourc
   - [PHP Internals Book](http://www.phpinternalsbook.com/)
   - [Let's Build A Forum with Laravel and TDD](https://laracasts.com/series/lets-build-a-forum-with-laravel)
   - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/)
-  - [Learn PHP ](https://www.interviewbit.com/blog/php-developer/)
 
 ***Ruby***
 
   - [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
   - [Learn Ruby The Hard Way](https://learnrubythehardway.org/book/)
-  - [Learn Ruby | Codecademy](https://www.codecademy.com/learn/learn-ruby) - Familiarity with Ruby before Rails
   - [Learn Ruby, Dev Concept and More | Upskills with Upcase](https://thoughtbot.com/upcase/practice) - Familiarity with ruby and coding concepts
   - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/)
   - [Ruby Tapas](https://www.rubytapas.com/) - Short, Focused Screencasts covering Intermediate to Advanced Ruby concepts and techniques, design principles, testing practices, refactoring, etc.
@@ -127,6 +122,21 @@ This repo was created to make a place where we could share tips, advice, resourc
   - [Understanding Mongoose Deep Population](http://frontendcollisionblog.com/mongodb/2016/01/24/mongoose-populate.html)
   - [MongoDB full tutorial for beginners](https://www.quackit.com/mongodb/tutorial/)
   - [MongoDB tutorial for intermediate](https://www.guru99.com/mongodb-tutorials.html)
+
+***Firebase***
+
+Build a better app and leave the operations to us. Save crucial development time and ship a high-quality, bug-free app.
+
+- [Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/) - Firebase Cloud Messaging (FCM) is a cross-platform messaging solution that lets you reliably deliver messages and notifications at no cost.
+- [Authentication](https://firebase.google.com/docs/auth/) - Firebase Authentication provides backend services, easy-to-use SDKs, and ready-made UI libraries to authenticate users to your app. It supports authentication using passwords, popular federated identity providers like Google, Facebook and Twitter, and more.
+- [Realtime Database](https://firebase.google.com/docs/database/) - The Firebase Realtime Database is a cloud-hosted database. Data is stored as JSON and synchronized in realtime to every connected client. When you build cross-platform apps with our iOS, Android, and JavaScript SDKs, all of your clients share one Realtime Database instance and automatically receive updates with the newest data.
+-[Cloud Firestore](https://firebase.google.com/docs/firestore/) -Cloud Firestore is a NoSQL document database that lets you easily store, sync, and query data for your mobile and web apps - at global scale.
+- [Storage](https://firebase.google.com/docs/storage/) - Firebase Storage is built for app developers who need to store and serve user-generated content, such as photos or videos.
+- [Hosting](https://firebase.google.com/docs/hosting/) - Firebase Hosting provides fast and secure static hosting for your web app.
+- [Remote Config](https://firebase.google.com/docs/remote-config/) - Firebase Remote Config is a cloud service that lets you change the behavior and appearance of your app without requiring users to download an app update.
+- [Test Lab](https://firebase.google.com/docs/test-lab/) - Firebase Test Lab for Android provides cloud-based infrastructure for testing Android apps. With one operation, you can initiate testing of your app across a wide variety of devices and device configurations.
+- [Crash Reporting](https://firebase.google.com/docs/crash/) - Crash Reporting creates detailed reports of the errors in your app. Errors are grouped into clusters of similar stack traces and triaged by the severity of impact on your users.
+
 
 ***Software architecture***
   - [Microservices by Chris Richardson](https://microservices.io/index.html)
@@ -144,7 +154,6 @@ This repo was created to make a place where we could share tips, advice, resourc
 
   - [HTML and CSS Tutorials | w3schools.com](https://www.w3schools.com/html/default.asp)
   - [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
-  - [Intro to HTML and CSS | Udacity](https://in.udacity.com/course/intro-to-html-and-css--ud001-india)
   - [Write quicker HTML5 and CSS 3 | Learn Code Online](https://courses.learncodeonline.in/learn/emmet-course?)
   - [Flexbox Interactive](https://codepen.io/enxaneta/full/adLPwv)
   - [freeCodeCamp](https://www.freecodecamp.org/)
@@ -170,10 +179,6 @@ This repo was created to make a place where we could share tips, advice, resourc
   - [BitDegree-Learn HTML](https://bitdegree.org/learn/html-basics)
   - [BitDegree-Learn CSS](https://bitdegree.org/learn/css-basics)
   - [CSS Grid Garden Game](https://cssgridgarden.com/)
-  - [HTML & HTML5](https://www.interviewbit.com/html-interview-questions/)
-  - [HTML Cheat Sheet](https://www.interviewbit.com/html-cheat-sheet/)
-  - [CSS Cheat Sheet](https://www.interviewbit.com/css-cheat-sheet/)
-  - [Best HTML and CSS Cheat Sheets](https://cssauthor.com/html-and-css-cheat-sheets/)
 
 ***Bootstrap4***
 
@@ -194,29 +199,20 @@ This repo was created to make a place where we could share tips, advice, resourc
   - [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
   - [javascript info](https://javascript.info/)
   - [Javascript30 | Wes Bos](https://javascript30.com/)
-  - [Intro to JavaScript | Udacity](https://in.udacity.com/course/intro-to-javascript--ud803-india)
   - [JavaScript Docs and Live examples](https://www.w3schools.com/js/)
   - [JavaScript: Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
-  - [JavaScript: The Good Parts by Douglas Crockford](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) 
-  - [You Don’t Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) 
   - [Eloquent JavaScript Online](https://eloquentjavascript.net/)
-  - [JavaScript Design Patterns | Udacity](https://in.udacity.com/course/javascript-design-patterns--ud989)
-  - [Theodinproject](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-1)
   - [Introduction to JavaScript | freeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
   - [HTML Dog](http://www.htmldog.com/guides/javascript/)
-  - [Javascript Tutorial for Beginner Complete Course 2018 | YouTube](https://www.youtube.com/watch?v=PwsigsH4oXw)
   - [33 JS concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts)
   - [30 Seconds of Code](https://30secondsofcode.org/)
   - [example.js | js by example | CodePen ](https://codepen.io/towc/post/examplejs-1-1)
-  - [Foundations of Programming in JavaScript](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
-  - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
   - [BitDegree-JS Basics](https://bitdegree.org/learn/javascript-basics)
   - [Wes Bos list of courses](https://wesbos.com/courses/)
   - [freeCodeCamp](https://www.freecodecamp.org/)
   - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) :baby:
   - [ES6 Cheatsheet](https://es6cheatsheet.com/)
   - [RegexOne | Regular Expression course](https://regexone.com/)
-  - [Dmitry Soshnikov's blog | A blog about JavaScript](http://dmitrysoshnikov.com/)
   - [JavaScript Interview Questions](https://www.interviewbit.com/javascript-interview-questions/)
   - [JavaScript CheatSheet](https://www.interviewbit.com/javascript-cheat-sheet/)
   - [JavaScript Tutorial | Scaler Topics](https://www.scaler.com/topics/javascript/)
@@ -225,8 +221,6 @@ This repo was created to make a place where we could share tips, advice, resourc
 
   - ***Angular***
 
-    - [Angular 7 - The Complete Guide by Maximilian Schwarzmüller | Udemy](https://www.udemy.com/the-complete-guide-to-angular-2/) 
-    - [The Complete Angular Course: Beginner to Advanced by Mosh Hamedani | Udemy](https://www.udemy.com/the-complete-angular-master-class/) 
     - [Angular Expo](https://angularexpo.com/) - Beautiful showcase of websites, applications and experiments using Angular
     - [Made With Angular](https://www.madewithangular.com/) - Gallery of inspiring websites using Angular/AngularJS
     - [Learn Angular 7 in 50 minutes](https://www.youtube.com/watch?v=5wtnKulcquA) - A free beginner's crash course
@@ -236,8 +230,6 @@ This repo was created to make a place where we could share tips, advice, resourc
 
     - [React JS - Conference Videos](https://www.reactjsvideos.com/)
     - [Learn React for free | Scrimba](https://scrimba.com/g/glearnreact)
-    - [Video Tutorials - Beginner to Intermediate | YouTube](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
-    - [Complete React Tutorial (& Redux) | YouTube](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
     - [ReactJS Tutorial | Codecademy](https://www.codecademy.com/learn/react-101) - Interactive
     - [FreeCodeCamp Articles](https://medium.freecodecamp.org/search?q=react)
     - [Reactstrap - React Bootstrap 4 Components](https://reactstrap.github.io/)
@@ -245,16 +237,10 @@ This repo was created to make a place where we could share tips, advice, resourc
     - [Famous GitHub Repos](https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010)
     - [React 16 - The Complete Guide (incl. React Router 4 & Redux)](https://www.udemy.com/react-the-complete-guide-incl-redux/) - Worth it
     - [Hello World | React.js Org](https://reactjs.org/docs/hello-world.html)
-    - [The Road to React | Book](https://drive.google.com/open?id=1ilClAJQ3FmCB-2cEuVDZtVMbeXumSj3t)
     - [React For Beginners | Wes Bos](https://reactforbeginners.com/) 
     - [Advanced React | Wes Bos](https://advancedreact.com/) 
     - [React Fundamentals | Tyler McGinnis](https://tylermcginnis.com/courses/react-fundamentals/) 
-    - [Modern React with Redux | Udemy](https://www.udemy.com/react-redux/) 
-
-  - ***React Native***
-
-    - [React Native - The Practical Guide](https://www.udemy.com/react-native-the-practical-guide/) 
-
+   
   - ***Redux.js***
 
     - [Redux Tutorial #1 - React js tutorial - How Redux Works | YouTube](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt) 
