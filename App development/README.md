@@ -12,17 +12,11 @@
 9. [Newsletter](#newsletter)
 10. [Flutter](#flutter)
 11. [React Native](#react-native)
+12. [Kotlin](#kotlin)
 
 ## Courses
 
-+ [Android Fundamentals by Google](https://www.udacity.com/course/new-android-fundamentals--ud851) _[Free]_
-+ [Android Basics Nanodegree by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803) _[Paid]_
-+ [Android Nanodegree by Google](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) _[Paid]_
-+ [Advanced Android Developer Course](https://codelabs.developers.google.com/advanced-android-kotlin-training/) _[Free]_
-+ [Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012) _[Free]_
-+ [Advanced Android with Kotlin](https://www.udacity.com/course/advanced-android-with-kotlin--ud940) _[Free]_
-+ [Become an Android Kotlin Developer](https://www.udacity.com/course/android-kotlin-developer-nanodegree--nd940) _[Paid]_
-+  [Free courses & Nanodegree | Udacity](https://udacity.com)
++ [Android Fundamentals by Google](https://www.udacity.com/course/new-android-fundamentals--ud851) _[Free]
 +  [PluralSight - Android Developer Track](https://www.pluralsight.com/paths/android) 
 +  [Path to Associate Android Developer](https://github.com/Amejia481/Associate-Android-Developer-Certification)
 +  [Google Android Codelabs](https://codelabs.developers.google.com/)
@@ -55,11 +49,13 @@
 
 ## Blogs
 
++ [Android Open Source Project](https://source.android.com/)
++ [Getting Started and be an Android Developer](https://developer.android.com/guide/slices/getting-started)
+- [Introduction](https://developer.android.com/guide)
 + [Android Hive](https://www.androidhive.info/)
 + [JakeWharton's Blog](https://jakewharton.com/blog/)
 + [Official Android Developer on Medium](https://medium.com/androiddevelopers)
 + [Android Developers Blog](https://android-developers.googleblog.com/)
-+ [Android Arsenal](https://android-arsenal.com)
 + [Pro Android Dev - by Droidcon](https://proandroiddev.com/)
 
 
@@ -78,7 +74,7 @@
 + [Appszoom](http://www.appszoom.com/developers) *[Free]*
 + [GETJAR](http://developer.getjar.mobi/) *[Free]*
 + [Opera Mobile Store](https://publishers.apps.opera.com/) *[Free]*
-+ [ Mobango](http://developer.mobango.com/view/homedeveloper.php?developerHeader=1) *[Free]*
++ [Mobango](http://developer.mobango.com/view/homedeveloper.php?developerHeader=1) *[Free]*
 + [SlideME](http://slideme.org/developers) *[Free]*
 + [1MOBILE](http://slideme.org/developers) *[Free]*
 + [Post your project and get in touch with top mobile app development companies](https://www.appfutura.com/app-projects) *[Free]*
@@ -103,8 +99,6 @@ Flutter is Google’s mobile app SDK for crafting high-quality native interfaces
 * [Flutter Awsome](https://flutterawesome.com/)
 * [Dart documentation](https://dart.dev/guides)
 * [Build Native Mobile Apps with Flutter by Google](https://in.udacity.com/course/build-native-mobile-apps-with-flutter--ud905) _[Free]_ 
-* [Learn Flutter & Dart to Build iOS & Android Apps](https://www.udemy.com/learn-flutter-dart-to-build-ios-android-apps/) _[Paid]_
-* [The Complete Flutter Development Bootcamp Using Dart](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart)_[Paid]_
 
 # React Native
 With React Native, you don't build a "mobile web app", an "HTML5 app", or a "hybrid app". You build a real mobile app that's indistinguishable from an app built using Objective-C or Java. React Native uses the same fundamental UI building blocks as regular iOS and Android apps. You just put those building blocks together using JavaScript and React.
@@ -113,4 +107,25 @@ With React Native, you don't build a "mobile web app", an "HTML5 app", or a "hyb
 
 + [Official Documentation](https://facebook.github.io/react-native/docs/getting-started)
 + [React Native Express](http://www.reactnativeexpress.com/) _[Free]_
-+ [The Complete React Native and Redux Course](https://www.udemy.com/the-complete-react-native-and-redux-course/) _[Paid]_
+
+# Kotlin
+
+## Resources
+-[Kotlin docs](https://kotlinlang.org/docs/home.html)
+-[programiz](https://www.programiz.com/kotlin-programming)
+-[beginnersbook](https://beginnersbook.com/2017/12/kotlin-tutorial/)
+-[Guru99](https://www.guru99.com/kotlin-tutorial.html)
+
+## YouTube Channels / Courses
+-[Kotlin by JetBrains](https://www.youtube.com/c/Kotlin/playlists)
+-[FreeCodeCamp](https://www.youtube.com/watch?v=F9UC9DY-vIU)
+-[edureka](https://www.youtube.com/watch?v=OMxeOiPwAcQ)
+-[codeitup](https://www.youtube.com/c/codeitup)
+-[Coursera](https://www.coursera.org/learn/kotlin-for-java-developers)
+-[Udemy](https://www.udemy.com/course/web-development-with-kotlin)
+-[Developers](https://developer.android.com/courses/android-basics-kotlin/course)
+
+
+
+
+
