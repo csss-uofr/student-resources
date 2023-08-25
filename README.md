@@ -41,12 +41,14 @@
 
 |ID| Name  | Location |
 |--|------ |----------|
-|1 | [Startup Grind Global Conference](http://www.startupgrind.com/conference/#/) | Redwood City, California |
-|2 | [Y Combinator's Startup School](https://www.startupschool.org/) | Online |
-|3 | [School of AI](https://picampus-school.com/programme/school-of-ai/) | Rome, Italy |
-|4 | [European Innovation Academy](https://www.inacademy.eu/) | Portugal, China |
-|5 | [Watson School Incubator](https://watson.is/semester-incubator-application/) | USA |
-|6 | [DevMountain](https://devmountain.com/) | UT, AZ, TX |
+|1 | [Sask Startup Summit - Cultivator](https://www.saskstartupsummit.com/) | Regina, Canada |
+|2 | [Prairie Dev Con](https://www.prairiedevcon.com/) | Regina, Winnipeg, Calgary - Canada |
+|3 | [Startup Grind Global Conference](http://www.startupgrind.com/conference/#/) | Redwood City, California |
+|4 | [Y Combinator's Startup School](https://www.startupschool.org/) | Online |
+|5 | [School of AI](https://picampus-school.com/programme/school-of-ai/) | Rome, Italy |
+|6 | [European Innovation Academy](https://www.inacademy.eu/) | Portugal, China |
+|7 | [Watson School Incubator](https://watson.is/semester-incubator-application/) | USA |
+|8 | [DevMountain](https://devmountain.com/) | UT, AZ, TX |
 
 
 ## Student Benefits and Packs
