@@ -13,7 +13,7 @@
 
 |Id |Name | Place| 
 |--|------ |---|
-|1 | [Hack In The North](https://www.hackinthenorth.com/)| India |  
+|1 | [Hack In The North](https://www.hackinthenorth.com/)| Canada |  
 |2 | [HackDavis](http://hackdavis.io/)|USA | 
 |3 | [HackMIT](https://hackmit.org/)   | USA |
 |4 | [HackNC](https://hacknc.com) | USA | 
